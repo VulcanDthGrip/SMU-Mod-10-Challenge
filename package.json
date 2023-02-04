@@ -1,0 +1,25 @@
+{
+  "name": "team_profile_generator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "test.Employee.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VulcanDthGrip/SMU-Mod-10-Challenge.git"
+  },
+  "author": "Luis Ayala",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/VulcanDthGrip/SMU-Mod-10-Challenge/issues"
+  },
+  "homepage": "https://github.com/VulcanDthGrip/SMU-Mod-10-Challenge#readme",
+  "dependencies": {
+    "inquirer": "^8.2.4"
+  }
+}
